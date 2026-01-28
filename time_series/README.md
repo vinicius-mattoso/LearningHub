@@ -9,11 +9,11 @@ In this first module, we explore:
 - Stationarity and statistical diagnostics
 
 <p align="center">
-  <img src="time_series/assets/01_eda_desenho.png" width="700">
+  <img src="../assets/01_eda_desenho.png" width="700">
 </p>
 
 <p align="center">
-  <img src="time_series/assets/01_eda_projeto.png" width="700">
+  <img src="../assets/01_eda_projeto.png" width="700">
 </p>
 
 ## ⏱️ 02 - Time Series — Holt-Winters Forecasting
