@@ -17,3 +17,13 @@ In this first module, we explore:
 </p>
 
 ## ⏱️ 02 - Time Series — Holt-Winters Forecasting
+
+In this module, we explore:
+- Train and Test Split
+- Holt-Winters model
+- Metrics
+- Forecasting
+
+<p align="center">
+  <img src="../assets/02_HoltWinter_projeto.png" width="700">
+</p>
