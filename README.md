@@ -33,3 +33,12 @@ seasonality analysis.
 
 More materials will be added progressively.
 
+## 🌍 Geology & Well Logs
+
+This section contains learning materials focused on **subsurface data analysis**, with an emphasis on
+**well log visualization, interpretation and data preparation using Python**.
+
+### 01 — Well Log Visualization from LAS Files
+
+
+- 📓 Notebook: `Visualizaçao_de_Well_Logs.ipynb`
