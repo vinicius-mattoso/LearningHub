@@ -38,7 +38,7 @@ Ao longo dos notebooks, utilizamos bibliotecas como:
 ---
 ## 🎥 Demonstração: Mapa do Rio de Janeiro Zoom
 
-https://github.com/vinicius-mattoso/LearningHub/assets/3877812947/Zoom_Mapa_Rio_de_Janeiro.mp4
+[https://github.com/vinicius-mattoso/LearningHub/assets/3877812947/Zoom_Mapa_Rio_de_Janeiro.mp4](https://github.com/vinicius-mattoso/LearningHub/issues/1)
 
 O vídeo acima demonstra um exemplo de visualização geoespacial interativa utilizando Python, com foco em mapas dinâmicos.
 
